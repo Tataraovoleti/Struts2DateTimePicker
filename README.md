@@ -7,8 +7,8 @@ was deprecated since struts 2.1.
 
 I developed this application with struts2-jquery plagin.
 
-&lt;b&gt;index.html&lt;/b&gt;
------------------
+index.jsp
+---------
 keep 
 <%@taglib prefix="s" uri="/struts-tags"%>
 <%@ taglib prefix="dt" uri="/struts2-jquery-tags" %> at top of the page.
